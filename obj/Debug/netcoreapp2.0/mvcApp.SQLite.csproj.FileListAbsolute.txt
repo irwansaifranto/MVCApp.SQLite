@@ -1,0 +1,10 @@
+/home/fitri/mvcApp.SQLite/bin/Debug/netcoreapp2.0/mvcApp.SQLite.deps.json
+/home/fitri/mvcApp.SQLite/bin/Debug/netcoreapp2.0/mvcApp.SQLite.runtimeconfig.json
+/home/fitri/mvcApp.SQLite/bin/Debug/netcoreapp2.0/mvcApp.SQLite.runtimeconfig.dev.json
+/home/fitri/mvcApp.SQLite/bin/Debug/netcoreapp2.0/mvcApp.SQLite.dll
+/home/fitri/mvcApp.SQLite/bin/Debug/netcoreapp2.0/mvcApp.SQLite.pdb
+/home/fitri/mvcApp.SQLite/obj/Debug/netcoreapp2.0/mvcApp.SQLite.csproj.CoreCompileInputs.cache
+/home/fitri/mvcApp.SQLite/obj/Debug/netcoreapp2.0/mvcApp.SQLite.AssemblyInfoInputs.cache
+/home/fitri/mvcApp.SQLite/obj/Debug/netcoreapp2.0/mvcApp.SQLite.AssemblyInfo.cs
+/home/fitri/mvcApp.SQLite/obj/Debug/netcoreapp2.0/mvcApp.SQLite.dll
+/home/fitri/mvcApp.SQLite/obj/Debug/netcoreapp2.0/mvcApp.SQLite.pdb
